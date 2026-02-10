@@ -18,27 +18,26 @@ Combining the measurements of 3 different irise's, to see similarities/differenc
     The program takes the following inputs:
         Two '.csv' file that contained petal and sepal measurements of the species.
         
-  
         
 ## c) Expected Output:
 
-    @The expected output was calculating each of the prompts, and then returning them listed of 100 players right after.
-    Outputs came back as expected with minor hickups reguarding some variable placements.
+    Generate dataframe using pandas, calculating corrorlation, mean, median, and standard deviation.
     
 ## d) Type of Execution:
 
-       @ Sequential Execution: The code is executed in a linear order from top to bottom.
+       Sequential Execution: The code is executed in a linear order from top to bottom.
 
     The program:@
-    Calculated field goal accuracy, three point accuracy, and free throw accuracy.
-    Other calculations after done in sequancal order as I have mention at the start with there lists following them within the same funtion.
-    Last, was the first 3 calculations reciving there list like the others prior.
+    Combine into dataframe
+    Calculate corrorlation
+    Find mean, and median
+    Calculate standard deviation
 
 ## e) Possible Improvements:
 
-    The program could be improved by:@
-    1. The orginization of the codes and when it was excecuted could have be more clean.
-    2. Made calculation and listing more casual/direct.
-    3. Do more research reguarding basketball to understand the true value of the calculations done.
+    The program could be improved by:
+    1. 
+    2. 
+    3. 
 
     
